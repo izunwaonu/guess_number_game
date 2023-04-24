@@ -1,0 +1,20 @@
+body{
+    background: gray;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.ansDisplay{
+    background-color: #fff;
+
+}
+.head{
+    text-align: center;
+}
